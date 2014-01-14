@@ -5,21 +5,7 @@
  * the written permission of Intalio Inc. or in accordance with
  * the terms and conditions stipulated in the agreement/contract
  * under which the program(s) have been supplied.
- */
-
-var PREFIX = "../social/comments/";
-var SUFIX = ".json";
-var SEPERATOR = "/";
-var SAVE = "save";
-var LIST = "list";
-var COUNT = "count";
-var DELETE = "delete";
-var USER = SEPERATOR + "user";
-var DATE = SEPERATOR + "date";
-var AFTER_DATE = SEPERATOR + "afterDate";
-var AFTER_ID = SEPERATOR + "afterId";
-
-var def_data = {
+*/
     moduleId: undefined,
     threadId: undefined,
     orderCol: undefined, 
